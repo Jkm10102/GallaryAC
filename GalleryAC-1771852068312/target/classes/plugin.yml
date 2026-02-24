@@ -1,0 +1,23 @@
+name: GalleryAC
+version: 1.0.0
+main: dev.afonso.galleryac.GalleryAC
+api-version: 1.13
+author: Afonso
+description: Advanced anticheat for Minecraft servers
+
+commands:
+  galleryac:
+    description: Main GalleryAC command
+    usage: /galleryac <reload|alerts>
+    aliases: [gac]
+
+permissions:
+  galleryac.admin:
+    description: Access to all admin commands
+    default: op
+  galleryac.alerts:
+    description: Receive anticheat alerts
+    default: op
+  galleryac.bypass:
+    description: Bypass anticheat checks
+    default: false

@@ -1,0 +1,14 @@
+prefix: "&#00FFAA&lGalleryAC &8»"
+
+alerts:
+  format: "%prefix% &7%player% &cfailed &7%check% &8(&c%vl% VL&8)%details%"
+
+punish:
+  broadcast: "%prefix% &c%player% &7was punished for &c%check%"
+
+alerts-toggle:
+  enabled: "%prefix% &aAlerts enabled"
+  disabled: "%prefix% &cAlerts disabled"
+
+reload:
+  success: "%prefix% &aConfiguration reloaded successfully"

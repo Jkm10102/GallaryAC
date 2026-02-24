@@ -1,0 +1,75 @@
+strictness: 3
+
+global:
+  flag-after-violations: 5
+  reset-violations-after-minutes: 5
+
+checks:
+  AimAssistA:
+    enabled: true
+    max-vl: 10.0
+    ban-command: "kick %player% Cheating is not allowed"
+  AimAssistB:
+    enabled: true
+    max-vl: 10.0
+    ban-command: "kick %player% Cheating is not allowed"
+  AimAssistC:
+    enabled: true
+    max-vl: 10.0
+    ban-command: "kick %player% Cheating is not allowed"
+  AimAssistD:
+    enabled: true
+    max-vl: 10.0
+    ban-command: "kick %player% Cheating is not allowed"
+  AimAssistE:
+    enabled: true
+    max-vl: 10.0
+    ban-command: "kick %player% Cheating is not allowed"
+  AimAssistF:
+    enabled: true
+    max-vl: 10.0
+    ban-command: "kick %player% Cheating is not allowed"
+  AimAssistG:
+    enabled: true
+    max-vl: 10.0
+    ban-command: "kick %player% Cheating is not allowed"
+  AimAssistH:
+    enabled: true
+    max-vl: 10.0
+    ban-command: "kick %player% Cheating is not allowed"
+  AimAssistI:
+    enabled: true
+    max-vl: 10.0
+    ban-command: "kick %player% Cheating is not allowed"
+  AimAssistJ:
+    enabled: true
+    max-vl: 10.0
+    ban-command: "kick %player% Cheating is not allowed"
+  AimAssistM:
+    enabled: true
+    max-vl: 10.0
+    ban-command: "kick %player% Cheating is not allowed"
+  AimAssistN:
+    enabled: true
+    max-vl: 10.0
+    ban-command: "kick %player% Cheating is not allowed"
+  AnalysisA:
+    enabled: true
+    max-vl: 10.0
+    ban-command: "kick %player% Cheating is not allowed"
+  AnalysisB:
+    enabled: true
+    max-vl: 10.0
+    ban-command: "kick %player% Cheating is not allowed"
+  AimRounded:
+    enabled: true
+    max-vl: 10.0
+    ban-command: "kick %player% Cheating is not allowed"
+  Mouse:
+    enabled: true
+    max-vl: 10.0
+    ban-command: "kick %player% Cheating is not allowed"
+  Sensitivity:
+    enabled: true
+    max-vl: 10.0
+    ban-command: "kick %player% Cheating is not allowed"
